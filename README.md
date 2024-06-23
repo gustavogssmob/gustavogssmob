@@ -51,7 +51,7 @@
 <a href="https://ionicframework.com/docs/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Ionic-414141?style=flat&logo=ionic" alt="Ionic"/>
 </a>&nbsp;
-
+<hr>
 
 > Back-end:
 <a href="https://git-scm.com/" target="_blank">
@@ -84,7 +84,7 @@
 <a href="https://vercel.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Vercel-414141?style=flat&logo=vercel" alt="Vercel"/>
 </a>&nbsp;
-<br />
+<hr>
 
 > Styles:
  <a href="https://sass-lang.com/documentation" target="_blank">
@@ -96,7 +96,7 @@
  <a href="https://tailwindcss.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-tailwindcss-414141?style=flat&logo=tailwindcss" alt="Tailwindcss"/>
 </a>&nbsp;
-<br />
+<hr>
 
 > Testes:
 <a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
@@ -105,13 +105,13 @@
 <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RTL-414141?style=flat&logo=rtl" alt="RTL"/>
 </a>&nbsp;
-<br />
+<hr>
 
 > Design UI/UX:
 <a href="https://www.figma.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
 </a>&nbsp;
-<br />
+<hr>
 
 > Outras:
 <a href="https://www.postman.com/" target="_blank">
