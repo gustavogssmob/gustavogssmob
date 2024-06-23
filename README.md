@@ -35,7 +35,7 @@
 
 ## :robot: &nbsp;Tech Stack 
 
-> Front:
+> Front-end:
 <a href="https://developer.android.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
 </a>&nbsp;
