@@ -16,7 +16,7 @@
     
  >   Sobre mim: 
   
-  <p> Sou Desenvolvedor Mobile focado em criar soluções seguras e inovadoras para dispositivos movéis com o apoio de metodologias ágeis e ferramentas de análise de vulnerabilidades. </p>
+  <p> Sou Desenvolvedor Mobile focado em criar soluções seguras e inovadoras para dispositivos movéis com o apoio de metodologias ágeis. </p>
 <p>Tenho senso de time, aprendo rápido e estou sempre buscando expandir meus conhecimentos. </p>     
           
 </div>
